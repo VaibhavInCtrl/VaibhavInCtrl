@@ -1,10 +1,37 @@
+<h2> Hey there! I'm Vaibhav <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-Hi I am Vaibhav Agarwal Undergrad at IIT Delhi.
+<h3> 👨🏻‍💻 About Me </h3>
 
-I aspire to be the best at what I do and always looking to learn new things. 
+- 🔭 &nbsp; I’m currently learning about design principles and in-depth knowledge of typescript
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studied at Indian Institute of Technology, Delhi.
+- 💼 &nbsp; Currently working as a Backend Developer at Ripik.ai
+- 🌱 &nbsp; Enthusiast in Generative Artificial Intelligence and Cloud computing
+- ✍️ &nbsp; I love to watch critically acclaimed movies and gardening
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-I am currently a Backend Engineer intern at RIPIK.ai, which is a startup that focuses on optimising the production of various chemicals by using AI/ML models. I have worked on various projects for different clients such as DCM Shriram, Aditya Birla Grasim, and Godrej Interio. Using various technologies and frameworks such as Django, GCP and React.js and numpy and pandas for the ML models. 
+<h3>🛠 Tech Stack</h3>
 
-I have also been very active in my college as well, being a integral part of various clubs and fests like BSP(Board of Student Publications), eDC(Entrepreneurship Development Cell) and Tryst(Annual Technical fest of IIT Delhi). Collaborating here with various people and innovating solutions to various problems with the team is something that I believe is very integral to any clubs success.
+- 💻 &nbsp; Python | Java | C++
+- 🌐 &nbsp; HTML | CSS | Javascript | Typescript 
+- 🔧 &nbsp; Docker | PyCharm | Visual Studio code | Git | pgAdmin4 | Postman
+- 🖥 &nbsp; AWS | Microsoft Azure
 
-I always look forward to work with new people. So do reach out to me with new and exciting oppurtunities and I would be more than happy to join and create excellency!
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavInCtrl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavInCtrl&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://x.com/theresvaibhav" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/vaguevaibhav/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/vaibhav-agarwal-iitd/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:vaibhav.agarwal.iitd@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
